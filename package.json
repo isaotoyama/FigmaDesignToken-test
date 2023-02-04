@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "husky": "^8.0.3",
+    "token-transformer": "^0.0.29"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.7.2"
+  }
+}
